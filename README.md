@@ -5,15 +5,25 @@
 
 #### 2018-05-09
 [机器学习-激励相关(2)](https://github.com/ws456999/tensorflow-learning-record/issues/2)
+```
 这里面主要介绍了一些，正则化、激励函数、逻辑回归等概念
+```
+
 [机器学习-神经网络(3)](https://github.com/ws456999/tensorflow-learning-record/issues/3)
+```
 介绍了用网络实现与门、非门、或门，cost function，反向传播的原理（主要是偏导），梯度检查
+```
+
 [机器学习-非监督学习(4)](https://github.com/ws456999/tensorflow-learning-record/issues/4)
+```
 K-meas原理，降维，主成分分析（感觉跟降维差不多）
+```
 
 #### 2018-04-25
 [机器学习-基础概念的理解(1)](https://github.com/ws456999/tensorflow-learning-record/issues/1)
+```
 只要是一些机器学习里面的基础概念，比如，为什么要用矩阵，什么是梯度下降，梯度下降的原理，求导过程之类
+```
 
 #### 2018-04-21
 ```
