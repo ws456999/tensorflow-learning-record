@@ -3,8 +3,16 @@
 从零开始爬天梯
 不定期更新
 
+#### 2018-05-09
+[机器学习-激励相关(2)](https://github.com/ws456999/tensorflow-learning-record/issues/2)
+这里面主要介绍了一些，正则化、激励函数、逻辑回归等概念
+[机器学习-神经网络(3)](https://github.com/ws456999/tensorflow-learning-record/issues/3)
+介绍了用网络实现与门、非门、或门，cost function，反向传播的原理（主要是偏导），梯度检查
+[机器学习-非监督学习(4)](https://github.com/ws456999/tensorflow-learning-record/issues/4)
+K-meas原理，降维，主成分分析（感觉跟降维差不多）
+
 #### 2018-04-25
-[机器学习笔记（一） 基础概念的理解](https://github.com/ws456999/tensorflow-learning-record/issues/1)
+[机器学习-基础概念的理解(1)](https://github.com/ws456999/tensorflow-learning-record/issues/1)
 只要是一些机器学习里面的基础概念，比如，为什么要用矩阵，什么是梯度下降，梯度下降的原理，求导过程之类
 
 #### 2018-04-21
@@ -14,11 +22,12 @@
 ```
 **目前还需要学习**
 
-- 反向传播的实现原理
+- 反向传播的实现原理（目前来说差不多懂了）
 - 看完《神经网络与深度学习》，目前看完前两章（共六章）
-- 从零开始看 andrew ng 的[机器教学视频](https://www.bilibili.com/video/av9912938/?p=2)
+- 从零开始看 andrew ng 的[机器教学视频](https://www.bilibili.com/video/av9912938/?p=2)（看到了第84个了，马上快看完了）
 - [台大李宏毅深度学习](https://www.bilibili.com/video/av9770302/)
 - 需要恶补[数学姿势](https://github.com/JustFollowUs/Machine-Learning)
+- 目前补了蛮多的数学知识，还需要实践！实践！实践！这很重要
 
 - - - -
 
